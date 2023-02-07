@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🌱 Atualmente estudando Javascrip
+- 🌱 Desenvolvendo minhas expertises em Javascrip
 
-- 🤔 I’m looking for help with ...
+- 📫 Contate-me no email: clopes.sf@gmail.com
 
-- 📫 Contate-me no email: ...
-
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Ninguém quer assumir o filho...
 ## Oiii eu sou a Samuel Lopes, Dev FullStack
 <div align="center">
   <a href="https://github.com/samuelflopes">
