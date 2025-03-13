@@ -2,7 +2,7 @@
 
 - 🌱 Desenvolvendo minhas expertises em Javascrip
 
-- 📫 Contate-me no email: clopes.sf@gmail.com
+- 📫 Contate-me no email:samuelferrlopes@gmail.com
 
 - ⚡ Fun fact: Ninguém quer assumir o filho...
 ## Oi eu sou a Samuel Lopes, Dev FullStack
